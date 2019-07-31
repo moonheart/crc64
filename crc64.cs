@@ -20,7 +20,7 @@ namespace crc
         private const ulong ISO = 0xD800000000000000;
 
         /// <summary>
-        /// The ISO polynomial, defined in ISO 3309 and used in HDLC.
+        /// The ECMA polynomial, defined in ECMA 182.
         /// </summary>
         public const ulong ECMA = 0xC96C5795D7870F42;
 
