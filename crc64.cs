@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Security.Cryptography;
 
-namespace rds_backup_restore
+namespace crc
 {
     public static class Crc64
     {
